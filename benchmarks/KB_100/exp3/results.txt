@@ -1,0 +1,5 @@
+Dialogue Time: 0.020754337310791016
+Dialogue Length: 13
+Number of Updates: 2
+DR-AI Understanding Scores: [0.0, 0.21693121693121692, 0.5642857142857143]
+MRP Understanding Scores: 0.40985324947589097

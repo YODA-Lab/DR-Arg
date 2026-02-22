@@ -1,0 +1,7 @@
+python-sat>=0.1.7
+unified-planning
+matplotlib
+pandas
+numpy
+networkx
+seaborn
